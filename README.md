@@ -10,7 +10,7 @@ Para abordar esse problema, propomos o desenvolvimento de um software de filtrag
 
 ### A nossa solução:
 Nossa marca:
-![Animação](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/FlixFinderAnimatedLogo.gif =600x)
+![Animação](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/FlixFinderAnimatedLogo.gif=x600)
 
 Modelagem Conceitual do banco de dados:
 ![ModelagemConceitual](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/modeloConceitual.png)
