@@ -29,10 +29,10 @@ Nossa paleta de cores:
 O objetivo principal deste software é fornecer uma plataforma eficaz para os usuários descobrirem filmes, séries e atores de acordo com suas preferências. Para tanto, faremos com que os filtros funcionem de forma concorrente, possibilitando uma maior precisão na busca (diferente do que se tem a disposição atualmente). Os principais objetivos incluem:
 1.	Filtragem por Nota: Permitir aos usuários filtrar filmes e séries com base em classificações de avaliação, como sua nota no IMDb. Possibilitando colocar como entrada um intervalo. Ex: de 6 a 8.
 2.	Filtragem por Ano: Possibilitar a seleção de filmes e séries com base no ano de lançamento, permitindo aos usuários explorar conteúdo de diferentes épocas. Aqui se objetiva uma evolução aos mecanismos presentes no mercado, onde somente é possível definir uma data específica. No nosso sistema será possível definir:
-- uma data específica. Ex: 2010.
-- um intervalo específico. Ex: de 2010 a 2015.
-- uma data máxima. Ex: até 2015.
-- uma data mínima. Ex: a partir de 2015.
+  - uma data específica. Ex: 2010.
+  - um intervalo específico. Ex: de 2010 a 2015.
+  - uma data máxima. Ex: até 2015.
+  - uma data mínima. Ex: a partir de 2015.
 3.	Filtragem por Gênero(s): Permitir que os usuários escolham filmes e séries de acordo com gêneros específicos: ação, animação, aventura, biografia, comédia, crime, documentário, drama, épico, esporte, fantasia, ficção científica, guerra, história, infantil, luta, mistério, musical, romance, suspense, terror, velho oeste.
 Observação: os filmes podem ser classificados com mais de um gênero (ex: Shrek poderia ser - infantil, animação, comédia).
 4.	Filtragem por Tema(s): Permitir que os usuários escolham filmes e séries de acordo com temas específicos: aliens, dc, espaço, heróis, japonês, lobisomem, marvel, monstros, pós-apocalíptico, robôs, sequências, Stephen King, tubarão, vampiro, viagem no tempo, zumbis. Possibilidade de o usuário adicionar temas personalizados e associar a filmes.
@@ -41,9 +41,9 @@ Observação: os filmes podem ser classificados com mais de um tema (ex: Pacific
 6.	Filtragem por Duração: Em filmes seria a duração total, enquanto que nas séries os critérios se desdobrariam em duração média dos episódios e quantidade de temporadas.
 7.	Filtragem por região do conteúdo: possibilidade de selecionar conteúdos oriundos de uma nacionalidade específica como: Coréia, Japão, Estados Unidos. Ou de Macro-Regiões: Europa, América-Latina, América do Norte, Oriente.
 8.	Fichas de informações detalhadas: Fornecer informações detalhadas sobre filmes, séries e atores, incluindo:
-a)	atores: nome, gênero, origem, data de nascimento, altura.
-b)	filmes: nome, ano, duração, diretor, país, nota.
-c)	séries: nome, ano/temporada, duração média dos episódios, criador, nota.
+  - atores: nome, gênero, origem, data de nascimento, altura.
+  - filmes: nome, ano, duração, diretor, país, nota.
+  - séries: nome, ano/temporada, duração média dos episódios, criador, nota.
 
 ### Requisitos Funcionais
 Para atender aos objetivos mencionados, o software de filtragem deve incluir os seguintes requisitos funcionais:
