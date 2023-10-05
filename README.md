@@ -71,6 +71,7 @@ Com a implementação correta e a atenção contínua às necessidades dos usuá
 
 ### Protótipos das interfaces:
 ... em construção
+
 ![Interface](https://media3.giphy.com/media/tNB5bIu3E5Z0EYEMP5/giphy.gif?cid=ecf05e47ppshmr874b0s1bqu64qzq9jswq698abiczce3qw9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
@@ -84,11 +85,13 @@ Com a implementação correta e a atenção contínua às necessidades dos usuá
 
 ### Desenvolvedores:
 **Carlos Hobmeier**
+
 https://www.linkedin.com/in/carlos-hobmeier-3b9104251/
 
 carloshobmeier@hotmail.com
 
 **Amanda Queiroz**
+
 https://www.linkedin.com/in/amandaqsobral/
 
 amandaq.sobral@gmail.com
