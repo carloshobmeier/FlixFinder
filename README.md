@@ -16,10 +16,10 @@ Para abordar esse problema, propomos o desenvolvimento de um software de filtrag
 O objetivo principal deste software é fornecer uma plataforma eficaz para os usuários descobrirem filmes, séries e atores de acordo com suas preferências. Para tanto, faremos com que os filtros funcionem de forma concorrente, possibilitando uma maior precisão na busca (diferente do que se tem a disposição atualmente). Os principais objetivos incluem:
 1.	Filtragem por Nota: Permitir aos usuários filtrar filmes e séries com base em classificações de avaliação, como sua nota no IMDb. Possibilitando colocar como entrada um intervalo. Ex: de 6 a 8.
 2.	Filtragem por Ano: Possibilitar a seleção de filmes e séries com base no ano de lançamento, permitindo aos usuários explorar conteúdo de diferentes épocas. Aqui se objetiva uma evolução aos mecanismos presentes no mercado, onde somente é possível definir uma data específica. No nosso sistema será possível definir:
-a)	uma data específica. Ex: 2010.
-b)	um intervalo específico. Ex: de 2010 a 2015.
-c)	uma data máxima. Ex: até 2015.
-d)	uma data mínima. Ex: a partir de 2015.
+  a)	uma data específica. Ex: 2010.
+  b)	um intervalo específico. Ex: de 2010 a 2015.
+  c)	uma data máxima. Ex: até 2015.
+  d)	uma data mínima. Ex: a partir de 2015.
 3.	Filtragem por Gênero(s): Permitir que os usuários escolham filmes e séries de acordo com gêneros específicos: ação, animação, aventura, biografia, comédia, crime, documentário, drama, épico, esporte, fantasia, ficção científica, guerra, história, infantil, luta, mistério, musical, romance, suspense, terror, velho oeste.
 Observação: os filmes podem ser classificados com mais de um gênero (ex: Shrek poderia ser - infantil, animação, comédia).
 4.	Filtragem por Tema(s): Permitir que os usuários escolham filmes e séries de acordo com temas específicos: aliens, dc, espaço, heróis, japonês, lobisomem, marvel, monstros, pós-apocalíptico, robôs, sequências, Stephen King, tubarão, vampiro, viagem no tempo, zumbis. Possibilidade de o usuário adicionar temas personalizados e associar a filmes.
