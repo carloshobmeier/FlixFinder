@@ -9,9 +9,10 @@ Para abordar esse problema, propomos o desenvolvimento de um software de filtrag
 
 
 ### A nossa solução:
-Nossa marca:
+**Nossa marca:**
+
 <img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/FlixFinderAnimatedLogo.gif" width="600">
-![Animação](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/FlixFinderAnimatedLogo.gif)
+
 
 Modelagem Conceitual do banco de dados:
 ![ModelagemConceitual](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/modeloConceitual.png)
