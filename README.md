@@ -15,17 +15,26 @@ Para abordar esse problema, propomos o desenvolvimento de um software de filtrag
 <img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/FlixFinderAnimatedLogo.gif" width="600">
 
 
-Modelagem Conceitual do banco de dados:
-![ModelagemConceitual](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/modeloConceitual.png)
+**Modelagem Conceitual do banco de dados:**
 
-Modelagem Lógica do banco de dados:
-![ModelagemLogica](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/modeloLogico.png)
+<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/modeloConceitual.png" width="600">
 
-Nossa tipografia:
-![Tipografia](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/Tipografia.jpg)
 
-Nossa paleta de cores:
-![Paleta](https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/PaletaDeCores.jpg)
+**Modelagem Lógica do banco de dados:**
+
+<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/modeloLogico.png" width="600">
+
+
+**Nossa tipografia:**
+
+<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/Tipografia.jpg" width="600">
+
+
+
+**Nossa paleta de cores:**
+
+<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/PaletaDeCores.jpg" width="600">
+
 
 
 ### Objetivos do Software e respectivas funcionalidades
