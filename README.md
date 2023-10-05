@@ -27,20 +27,20 @@ Para abordar esse problema, propomos o desenvolvimento de um software de filtrag
 
 **Nossa tipografia:**
 
-<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/Tipografia.jpg" width="600">
+<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/Tipografia.jpg" width="300">
 
 
 
 **Nossa paleta de cores:**
 
-<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/PaletaDeCores.jpg" width="600">
+<img src="https://github.com/carloshobmeier/Assets/blob/main/FlixFinder/PaletaDeCores.jpg" width="300">
 
 
 
 ### Objetivos do Software e respectivas funcionalidades
 O objetivo principal deste software é fornecer uma plataforma eficaz para os usuários descobrirem filmes, séries e atores de acordo com suas preferências. Para tanto, faremos com que os filtros funcionem de forma concorrente, possibilitando uma maior precisão na busca (diferente do que se tem a disposição atualmente). Os principais objetivos incluem:
-**1.	Filtragem por Nota**: Permitir aos usuários filtrar filmes e séries com base em classificações de avaliação, como sua nota no IMDb. Possibilitando colocar como entrada um intervalo. Ex: de 6 a 8.
-**2.	Filtragem por Ano**: Possibilitar a seleção de filmes e séries com base no ano de lançamento, permitindo aos usuários explorar conteúdo de diferentes épocas. Aqui se objetiva uma evolução aos mecanismos presentes no mercado, onde somente é possível definir uma data específica. No nosso sistema será possível definir:
+1.	**Filtragem por Nota**: Permitir aos usuários filtrar filmes e séries com base em classificações de avaliação, como sua nota no IMDb. Possibilitando colocar como entrada um intervalo. Ex: de 6 a 8.
+2.	**Filtragem por Ano**: Possibilitar a seleção de filmes e séries com base no ano de lançamento, permitindo aos usuários explorar conteúdo de diferentes épocas. Aqui se objetiva uma evolução aos mecanismos presentes no mercado, onde somente é possível definir uma data específica. No nosso sistema será possível definir:
     - uma data específica. Ex: 2010.
     - um intervalo específico. Ex: de 2010 a 2015.
     - uma data máxima. Ex: até 2015.
@@ -69,7 +69,7 @@ A tarefa de encontrar o conteúdo ideal em meio a uma vasta biblioteca de filmes
 Em última análise, o software de filtragem de filmes, séries e atores representa uma evolução no universo do entretenimento digital, enriquecendo a experiência do usuário e oferecendo uma maneira mais gratificante de explorar o vasto mundo do cinema.
 Com a implementação correta e a atenção contínua às necessidades dos usuários, esse software tem o potencial de se tornar uma ferramenta indispensável para amantes de entretenimento em todo o mundo, com possibilidade de adaptação e integração em várias plataformas já existentes.
 
-### Protótipos das interfaces
+### Protótipos das interfaces:
 ... em construção
 
 
@@ -77,8 +77,21 @@ Com a implementação correta e a atenção contínua às necessidades dos usuá
 
 
 
+### Tecnologias utilizadas:
+- [x] Java
+- [x] Swing
+- [x] MySQL
 
+### Desenvolvedores:
+**Carlos Hobmeier**
+https://www.linkedin.com/in/carlos-hobmeier-3b9104251/
+carloshobmeier@hotmail.com
 
+**Amanda Queiroz**
+https://www.linkedin.com/in/amandaqsobral/
+amandaq.sobral@gmail.com
+
+#### Software Desenvolvido para a matéria de Programação Orientada a Objetos na PUCPR
 
 
 
