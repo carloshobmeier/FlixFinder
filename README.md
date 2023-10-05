@@ -7,6 +7,7 @@ O mercado de entretenimento, especialmente no que diz respeito a filmes e série
 Os sistemas de buscas nessas plataformas são muito carentes de recursos para auxiliar na busca, em vista do alto volume de conteúdo (que, de regra, em sua maioria não interessa ao usuário). Eis que os usuários acabam gastando mais tempo 'na procura do que assistir' do que de fato na atividade fim, que seria 'assistindo'.
 Para abordar esse problema, propomos o desenvolvimento de um software de filtragem que permitirá aos usuários encontrar filmes, séries e atores de acordo com seus interesses específicos. Na sequência, exploraremos as principais características e requisitos para o desenvolvimento deste software.
 
+===
 
 ### A nossa solução:
 **Nossa marca:**
