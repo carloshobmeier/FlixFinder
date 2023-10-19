@@ -1,31 +1,25 @@
 package Entidades;
 
+import java.util.ArrayList;
 import java.util.Date;
 
-public class Filme {
+public class Filme extends Video{
 
     protected int idFilme;
-    protected String tituloOriginal;
-    protected String tituloNacional;
     protected Date dataLancamento;
     protected String diretor;
     protected String paisOrigem;
-    protected double nota;
     protected double orcamento;
     protected double faturamentoMundial;
-    protected int duracao;
 
-    public Filme(int idFilme, String tituloOriginal, String tituloNacional, Date dataLancamento, String diretor, String paisOrigem, double nota, double orcamento, double faturamentoMundial, int duracao) {
+    public Filme(String tituloOriginal, String tituloNacional, double nota, int duracao, ArrayList<Genero> generos, ArrayList<Assunto> assuntos, int idFilme, Date dataLancamento, String diretor, String paisOrigem, double orcamento, double faturamentoMundial) {
+        super(tituloOriginal, tituloNacional, nota, duracao, generos, assuntos);
         this.idFilme = idFilme;
-        this.tituloOriginal = tituloOriginal;
-        this.tituloNacional = tituloNacional;
         this.dataLancamento = dataLancamento;
         this.diretor = diretor;
         this.paisOrigem = paisOrigem;
-        this.nota = nota;
         this.orcamento = orcamento;
         this.faturamentoMundial = faturamentoMundial;
-        this.duracao = duracao;
     }
 
     public int getIdFilme() {
@@ -34,22 +28,6 @@ public class Filme {
 
     public void setIdFilme(int idFilme) {
         this.idFilme = idFilme;
-    }
-
-    public String getTituloOriginal() {
-        return tituloOriginal;
-    }
-
-    public void setTituloOriginal(String tituloOriginal) {
-        this.tituloOriginal = tituloOriginal;
-    }
-
-    public String getTituloNacional() {
-        return tituloNacional;
-    }
-
-    public void setTituloNacional(String tituloNacional) {
-        this.tituloNacional = tituloNacional;
     }
 
     public Date getDataLancamento() {
@@ -76,14 +54,6 @@ public class Filme {
         this.paisOrigem = paisOrigem;
     }
 
-    public double getNota() {
-        return nota;
-    }
-
-    public void setNota(double nota) {
-        this.nota = nota;
-    }
-
     public double getOrcamento() {
         return orcamento;
     }
@@ -100,28 +70,22 @@ public class Filme {
         this.faturamentoMundial = faturamentoMundial;
     }
 
-    public int getDuracao() {
-        return duracao;
-    }
-
-    public void setDuracao(int duracao) {
-        this.duracao = duracao;
-    }
-
 
     @Override
     public String toString() {
         return "Filme{" +
                 "idFilme=" + idFilme +
-                ", tituloOriginal='" + tituloOriginal + '\'' +
-                ", tituloNacional='" + tituloNacional + '\'' +
-                ", dataLancamento='" + dataLancamento + '\'' +
+                ", dataLancamento=" + dataLancamento +
                 ", diretor='" + diretor + '\'' +
                 ", paisOrigem='" + paisOrigem + '\'' +
-                ", nota=" + nota +
                 ", orcamento=" + orcamento +
                 ", faturamentoMundial=" + faturamentoMundial +
+                ", tituloOriginal='" + tituloOriginal + '\'' +
+                ", tituloNacional='" + tituloNacional + '\'' +
+                ", nota=" + nota +
                 ", duracao=" + duracao +
+                ", genero=" + generos +
+                ", assunto=" + assuntos +
                 '}';
     }
 }
