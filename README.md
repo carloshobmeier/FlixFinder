@@ -49,7 +49,7 @@ O objetivo principal deste software é fornecer uma plataforma eficaz para os us
 Observação: os filmes podem ser classificados com mais de um gênero (ex: Shrek poderia ser - infantil, animação, comédia).
 4.	**Filtragem por Tema(s)**: Permitir que os usuários escolham filmes e séries de acordo com temas específicos: aliens, dc, espaço, heróis, japonês, lobisomem, marvel, monstros, pós-apocalíptico, robôs, sequências, Stephen King, tubarão, vampiro, viagem no tempo, zumbis. Possibilidade de o usuário adicionar temas personalizados e associar a filmes.
 Observação: os filmes podem ser classificados com mais de um tema (ex: Pacific Rim poderia ser - aliens, robôs, sequências).
-5.	**Filtragem por Ator(es)**: Possibilitar a busca por filmes e séries que apresentam atores específicos. No caso seria possível não só filtrar pelo conteúdo de um ator específico, mas também pelo conteúdo que ao mesmo tempo apresente uma multiplicidade de atores.
+5.	**Filtragem por Entidades.Ator(es)**: Possibilitar a busca por filmes e séries que apresentam atores específicos. No caso seria possível não só filtrar pelo conteúdo de um ator específico, mas também pelo conteúdo que ao mesmo tempo apresente uma multiplicidade de atores.
 6.	**Filtragem por Duração**: Em filmes seria a duração total, enquanto que nas séries os critérios se desdobrariam em duração média dos episódios e quantidade de temporadas.
 7.	**Filtragem por região do conteúdo**: possibilidade de selecionar conteúdos oriundos de uma nacionalidade específica como: Coréia, Japão, Estados Unidos. Ou de Macro-Regiões: Europa, América-Latina, América do Norte, Oriente.
 8.	**Fichas de informações detalhadas**: Fornecer informações detalhadas sobre filmes, séries e atores, incluindo:
