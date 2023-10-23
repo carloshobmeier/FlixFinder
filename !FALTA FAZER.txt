@@ -3,3 +3,4 @@
 - VER COMO ADAPTAR O SQL COM AUTOINCREMET para todos os ids(filme, ator, diretor, roteirista, tema, genero)
 
 
+- aprimorar a interface gráfica
