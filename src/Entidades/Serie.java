@@ -6,7 +6,7 @@ public class Serie extends Video{
     protected int numeroTemporadas;
 
     public Serie(String tituloOriginal, String tituloNacional, double nota, int duracao, Genero genero, Assunto assunto, int idSerie, int numeroTemporadas) {
-        super(tituloOriginal, tituloNacional, nota, duracao, genero, assunto);
+        super(tituloOriginal, tituloNacional, nota, duracao, generos, assuntos);
         this.idSerie = idSerie;
         this.numeroTemporadas = numeroTemporadas;
     }
